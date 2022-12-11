@@ -72,8 +72,3 @@ FOXTEL-AS-IN Foxtel Telecommunications Pvt. Ltd., IN
 BBIL-AP BHARTI Airtel Ltd., IN
 NIDIX NETWORKS S.A. DE C.V., MX
 KKNETWROK-AS-AP KK Networks Pvt Ltd., PK
-HINET Data Communication Business Group, TW
-NGI-AS, IT
-FPCC-AS, IR
-RESPINA-AS, IR
-CAPL-AS-AP Contabo Asia Private Limited, SG
