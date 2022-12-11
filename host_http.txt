@@ -1,0 +1,79 @@
+COMCAST-7922, US
+IWEB-AS, CA
+ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
+RD-BM, US
+ACS-INTERNET, US
+DIGITALOCEAN-ASN, US
+CHARTER-20115, US
+ZSCALER-SJC1, US
+AMAZON-AES, US
+Operbes, S.A. de C.V., MX
+FRONTIER-FRTR, US
+BHN-33363, US
+DIMENOC, US
+MICROSOFT-CORP-MSN-AS-BLOCK, US
+Telecommunication Services of Trinidad and Tobago, TT
+NUTELECOM, US
+ASN-CXA-ALL-CCI-22773-RDC, US
+AS-HOSTINGER, CY
+LAYER-HOST, US
+ORACLE-BMC-31898, US
+UFINET PANAMA S.A., PA
+AT-WZN-AS Wien Energie, AT
+EWETEL Cloppenburger Strasse 310, DE
+A1TELEKOM-AT A1 Telekom Austria AG, AT
+GO-DADDY-COM-LLC, US
+XTRA Telecom, ESCLOUDWEBMANAGE-, IL
+PTCO, IR
+NOOR-AS, EG
+IONOS-AS This is the joint network for IONOS, Fasthosts, Ars
+AXS Bolivia S. A., BO
+SV3-AS Russia, Simpheropol, UA
+HNS-DIRECPC, US
+SKYMAX-AS Skymax Broadband Services Pvt. Ltd., IN
+Telefonica del Peru S.A.A., PE
+HKTIMS-AP HKT Limited, HK
+KIRINONET, US
+Compania Dominicana de Telefonos S. A., DO
+BCPL-SG BGPNET Global ASN, SG
+RAYA-AS, EG
+ABRARVAN-AS AbrArvan CDN and IaaS, IR
+Empresa de Telecomunicaciones de Cuba, S.A., CU
+SKYTELECOM, RU
+PODRYAD-AS, RU
+TBCOM-NET TBC, TW
+EPM Telecomunicaciones S.A. E.S.P., CO
+ARTCOMS-AS, RU
+INET-TH-AS Internet Thailand Company Limited, TH
+LVLT-3549, US
+Telecentro S.A., AR
+KIXS-AS-KR Korea Telecom, KR
+OVH, FR
+STOI-AS, YT
+QDS NETWORKS SA DE CV, MX
+SEPCOM COMUNICACIONES SAS, CO
+PGS-AS-IN Pegasuswave Private Limited, INFPCC-AS, IR
+FIBERNET TV SAS, CO
+VIGINET C.A, VE
+BAIDU Beijing Baidu Netcom Science and Technology Co., Ltd.,
+TOTAL PLAY TELECOMUNICACIONES SA DE CV, MX
+Telconet S.A, EC
+NTL, GB
+Gimenez Pedro Santiago Clorindaconectada, AR
+Tierranet S.A.S., CO
+ALTICE DOMINICANA S.A., DO
+IBOSS-8-ASN, US
+GRUPO METROWAN TELECOM SPA, CL
+COLUMBUS NETWORKS COLOMBIA, CO
+ELYZIUM-AS Elyzium Technologies Pvt. Ltd., IN
+NTK IPv6 customers, RU
+SELECTEL, RU
+FOXTEL-AS-IN Foxtel Telecommunications Pvt. Ltd., IN
+BBIL-AP BHARTI Airtel Ltd., IN
+NIDIX NETWORKS S.A. DE C.V., MX
+KKNETWROK-AS-AP KK Networks Pvt Ltd., PK
+HINET Data Communication Business Group, TW
+NGI-AS, IT
+FPCC-AS, IR
+RESPINA-AS, IR
+CAPL-AS-AP Contabo Asia Private Limited, SG
