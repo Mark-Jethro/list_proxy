@@ -1,4 +1,3 @@
-COMCAST-7922, US
 IWEB-AS, CA
 ALIBABA-CN-NET Alibaba US Technology Co., Ltd., CN
 RD-BM, US
