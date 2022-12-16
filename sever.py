@@ -9,7 +9,7 @@ output = os.popen('hostname').read()
 output = output[:-1]
 if output == 'localhost':
     output = os.popen('whoami')
-    output = str(output)[:-1]
+    output = output[:-1]
     output = hashlib.md5(output.encode('utf-8')).hexdigest()
 output = output.upper()
 
