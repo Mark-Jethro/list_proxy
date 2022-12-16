@@ -8,7 +8,7 @@ from rich.console import Console
 console = Console()
 
 
-def main():
+def test():
     output = os.popen('hostname').read()
     output = str(output)[:-1]
     if output == 'localhost':
@@ -42,4 +42,4 @@ def main():
 
 
 if __name__ == '__main__':
-    main()
+    test()
