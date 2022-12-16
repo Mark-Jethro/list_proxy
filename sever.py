@@ -1,8 +1,8 @@
-__author__='billythegoat356'
-__github__='https://github.com/billythegoat356/Specter'
-__discord__='https://discord.gg/plague'
-__license__='EPL-2.0'
-__code__='Hello world!'
+author='billythegoat356'
+github='https://github.com/billythegoat356/Specter'
+discord='https://discord.gg/plague'
+license='EPL-2.0'
+code='Hello world!'
 Any=...,
 class Specter:
 	def __init__(self,code):self.code=code;self.execute(...);return None
