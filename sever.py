@@ -14,7 +14,7 @@ __license__ = "EPL-2.0"
 __code__ = "Hello world!"
 
 
-Any = (...,)
+any = (...,)
 
 class Specter:
     def __init__(self, code: str) -> None:
