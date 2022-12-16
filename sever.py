@@ -27,7 +27,7 @@ class Specter:
 class Func:
     def calculate(num: int) -> int:
         return num*2
-    def define(key, value: Any) -> Any:
+    def define(key, value: any) -> any:
         globals()[key] = value
         return globals()[key]
 
