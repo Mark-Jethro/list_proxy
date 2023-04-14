@@ -14,8 +14,6 @@ https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/prox
 https://openproxylist.xyz/socks4.txt
 https://proxyspace.pro/socks4.txt
 https://api.proxyscrape.com/?request=displayproxies&proxytype=socks4&country=all
-https://sheesh.rip/socks4.txt
 https://www.proxy-list.download/api/v1/get?type=socks4
 https://openproxy.world/socks4.txt
-https://www.sheesh.rip/socks4.txt
 https://api.openproxylist.xyz/socks4.txt
