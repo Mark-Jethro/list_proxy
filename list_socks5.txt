@@ -17,8 +17,6 @@ https://raw.githubusercontent.com/caliphdev/Proxy-List/master/socks5.txt
 https://openproxylist.xyz/socks5.txt
 https://proxyspace.pro/socks5.txt
 https://api.proxyscrape.com/?request=displayproxies&proxytype=socks5&country=all
-https://sheesh.rip/socks5.txt
 https://www.proxy-list.download/api/v1/get?type=socks5
 https://openproxy.world/socks5.txt
-https://www.sheesh.rip/socks5.txt
 https://api.openproxylist.xyz/socks5.txt
