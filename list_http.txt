@@ -31,7 +31,6 @@ https://proxyspace.pro/http.txt
 https://proxyspace.pro/https.txt
 https://api.proxyscrape.com/?request=displayproxies&proxytype=http&country=all
 https://api.proxyscrape.com/?request=displayproxies&proxytype=https&country=all
-https://sheesh.rip/http.txt
 https://www.proxy-list.download/api/v1/get?type=http
 https://www.proxy-list.download/api/v1/get?type=https
 http://rootjazz.com/proxies/proxies
