@@ -35,6 +35,5 @@ https://www.proxy-list.download/api/v1/get?type=http
 https://www.proxy-list.download/api/v1/get?type=https
 http://rootjazz.com/proxies/proxies
 https://openproxy.world/http.txt
-https://www.sheesh.rip/http.txt
 http://olaf4snow.com/public/proxy.txt
 https://api.openproxylist.xyz/http.txt
