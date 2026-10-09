@@ -20,3 +20,4 @@ https://api.proxyscrape.com/?request=displayproxies&proxytype=socks5&country=all
 https://www.proxy-list.download/api/v1/get?type=socks5
 https://openproxy.world/socks5.txt
 https://api.openproxylist.xyz/socks5.txt
+https://rcloak.com/api/proxies/raw?protocol=socks5
