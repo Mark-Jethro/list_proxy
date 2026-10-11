@@ -37,3 +37,4 @@ http://rootjazz.com/proxies/proxies
 https://openproxy.world/http.txt
 http://olaf4snow.com/public/proxy.txt
 https://api.openproxylist.xyz/http.txt
+https://rcloak.com/api/proxies/raw?protocol=http
